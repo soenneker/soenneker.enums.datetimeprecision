@@ -8,5 +8,5 @@
 ## Installation
 
 ```
-Install-Package Soenneker.Enums.DateTimePrecision
+dotnet add package Soenneker.Enums.DateTimePrecision
 ```
